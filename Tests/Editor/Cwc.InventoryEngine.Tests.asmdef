@@ -1,0 +1,25 @@
+{
+    "name": "Cwc.InventoryEngine.Tests",
+    "rootNamespace": "Cwc.InventoryEngine.Tests",
+    "references": [
+        "Cwc.InventoryEngine.Runtime",
+        "Cwc.InventoryEngine.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

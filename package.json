@@ -1,0 +1,34 @@
+{
+  "name": "com.cwcbb.cwcinventoryengine",
+  "version": "1.0.0",
+  "displayName": "CwcInventoryEngine - Flyweight Inventory & Equipment System",
+  "description": "A high-performance, lightweight, 0-GC flyweight inventory, equipment, and storage engine for Unity. Features state slicing, dual-bus pipeline (events & requests), global router, defragmentation, and data-window sliding UI controllers.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "inventory",
+    "equipment",
+    "flyweight",
+    "zero-gc",
+    "rpg",
+    "storage",
+    "container",
+    "ugui"
+  ],
+  "author": {
+    "name": "Cwcbb",
+    "url": "https://github.com/CwcbbChao"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "samples": [
+    {
+      "displayName": "Inventory Engine Demo",
+      "description": "Full interactive demo scene demonstrating item spawning, equipment swapping, durability slices, save/load persistence, and UI controller bindings.",
+      "path": "Demo"
+    }
+  ],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.inputsystem": "1.7.0"
+  }
+}

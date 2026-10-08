@@ -1,0 +1,7 @@
+CwcInventoryEngine Third-Party Notices and Licenses
+===================================================
+
+This package contains no third-party proprietary code.
+It relies solely on standard Unity packages:
+- TextMeshPro (com.unity.textmeshpro) - Unity Companion License
+- Input System (com.unity.inputsystem) - Unity Companion License
